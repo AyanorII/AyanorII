@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Invoice App](https://github.com/AyanorII/invoice-app)
 
-- 🌱 I’m currently learning **MEARN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **rodrigotoyoda@outlook.com**
 
