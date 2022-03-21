@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanorii&label=Profile%20views&color=0e75b6&style=flat" alt="ayanorii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanorii" alt="ayanorii" /></a> </p>
 
 - 🔭 I’m currently working on [Invoice App](https://github.com/AyanorII/invoice-app)
 
@@ -29,10 +28,11 @@
 <p><img align="left" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ayanorii" /></p>
 <p><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="ayanorii" /></p>
 
-<p></p>
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanorii&show_icons=true&locale=en&layout=compact" alt="ayanorii" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanorii&show_icons=true&locale=en" alt="ayanorii" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanorii&show_icons=true&locale=en" alt="ayanorii" /></p>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanorii&show_icons=true&locale=en&layout=compact" alt="ayanorii" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanorii&" alt="ayanorii" /></p>
+
