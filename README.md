@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanorii&label=Profile%20views&color=0e75b6&style=flat" alt="ayanorii" /> </p>
 
 
-- 🔭 I’m currently working on [Invoice App](https://github.com/AyanorII/invoice-app)
+- 🔭 I’m currently working on [Designo Website](https://github.com/AyanorII/designo-react-typescript)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **rodrigotoyoda@outlook.com**
 
