@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Designo Website](https://github.com/AyanorII/designo-react-typescript)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **rodrigotoyoda@outlook.com**
 
