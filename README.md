@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="ayanorii" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanorii&show_icons=true&locale=en&layout=compact" alt="ayanorii" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanorii&show_icons=true&locale=en&layout=compact" alt="ayanorii" /></span>
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanorii&show_icons=true&locale=en" alt="ayanorii" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanorii&" alt="ayanorii" /></p>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanorii&" alt="ayanorii" /></span>
