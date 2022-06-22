@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanorii&label=Profile%20views&color=0e75b6&style=flat" alt="ayanorii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanorii" alt="ayanorii" /></a> </p>
-
 - 🔭 I’m currently working on [Audiophile E-Commerce](https://github.com/AyanorII/audiophile-next-typescript)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **rodrigotoyoda@outlook.com**
 
-- 👨‍💻 All of my projects are available at **[my Portfolio](https://ayanori-toyoda.com/)**
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://ayanori-toyoda.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,16 +34,13 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="ayanorii" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="ayanorii" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="ayanorii" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="ayanorii" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="ayanorii" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="ayanorii" />
-  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="ayanorii" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanorII&theme=vue" />
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanorii&show_icons=true&locale=en&layout=compact" alt="ayanorii" /></span>
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanorii&show_icons=true&locale=en" alt="ayanorii" /></p> -->
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanorII" /></span>
 
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanorii&" alt="ayanorii" /></span>
