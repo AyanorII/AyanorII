@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanorii&label=Profile%20views&color=0e75b6&style=flat" alt="ayanorii" /> </p>
 
-- 🔭 I’m currently working on [Audiophile E-Commerce](https://github.com/AyanorII/audiophile-next-typescript)
+- 🔭 I’m currently working on [**Kanban**](https://github.com/AyanorII/kanban)
 
 - 🌱 I’m currently learning **Next.js**
 
