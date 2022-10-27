@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayanori Toyoda</h1>
-<h3 align="center">Front End Developer, born and raised in Brazil, based in Saitama, Japan.</h3>
+<h3 align="center">Full-Stack Developer, born and raised in Brazil, based in Saitama, Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanorii&label=Profile%20views&color=0e75b6&style=flat" alt="ayanorii" /> </p>
 
