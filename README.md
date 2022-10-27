@@ -37,10 +37,10 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanorII&theme=vue" />
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanorII" /></span>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanorii&" alt="ayanorii" /></span>
